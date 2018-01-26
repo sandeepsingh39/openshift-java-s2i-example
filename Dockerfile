@@ -1,5 +1,5 @@
-FROM openshift/base-centos7
-MAINTAINER Chakradhar Rao Jonagam (9chakri@gmail.com)
+FROM openshift/base-rhel7
+MAINTAINER sandeep kumar singh (sandeepsingh4997@gmail.com)
 
 ENV BUILDER_VERSION 1.1
 
