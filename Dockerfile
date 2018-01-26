@@ -1,4 +1,4 @@
-FROM docker.io/richxsl/rhel7
+FROM docker.io/ubuntu
 MAINTAINER sandeep kumar singh (sandeepsingh4997@gmail.com)
 
 ENV BUILDER_VERSION 1.1
